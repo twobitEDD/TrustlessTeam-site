@@ -52,6 +52,7 @@ const About = () => {
                   </span>
                 )}
                 <p> </p>
+                <p> </p>
                 <p className="about-wrapper__info-text">{paragraphTwo}</p>
                 {githubTwo && (
                   <span className="d-flex mt-3">
@@ -65,6 +66,7 @@ const About = () => {
                     </a>
                   </span>
                 )}
+                <p> </p>
                 <p> </p>
 
                 <p className="about-wrapper__info-text">{paragraphThree}</p>
